@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="all" path="." />
+    <!-- Lets Open/Share work for files on SD cards and USB drives too -->
+    <root-path name="root" path="/" />
+</paths>
